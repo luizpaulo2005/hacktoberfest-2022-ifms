@@ -14,3 +14,21 @@ Atualmente estou cursando o Técnico em Informática no IFMS - NA
 E por fim, o que todo mundo gosta
 
 - Dormir
+
+# Linguagens de Programação 
+
+Atualmente eu tenho experiência com as seguintes tecnologias:
+- HTML, CSS
+- JavaScript
+- NodeJS
+- ReactJS (Básico)
+- NextJS
+- Express
+- Sequelize
+- PostgreSQL
+
+# Desejos para o futuro
+
+- Seguir na área de informática
+- Me formar (Provavelmente irei fazer o TADS no campus)
+- Arrumar um bom emprego
