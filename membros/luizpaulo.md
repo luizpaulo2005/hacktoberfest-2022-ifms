@@ -32,3 +32,12 @@ Atualmente eu tenho experiência com as seguintes tecnologias:
 - Seguir na área de informática
 - Me formar (Provavelmente irei fazer o TADS no campus)
 - Arrumar um bom emprego
+
+# Requisitos Minimos de League of Legends (2022)
+
+Minimos - Windows
+
+- CPU: I3-530
+- RAM: 2GB
+- GPU: NVIDIA GeForce 9600GT/AMD HD6570/INTEL HD GRAPHICS 4600
+- VRAM: 1GB
